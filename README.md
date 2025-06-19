@@ -16,13 +16,13 @@ ProblemNumber-Problem-Name/ <br>
 ---
 
 ## ✅ Completed Problems
-| Problem No. | Problem Name                | Difficulty | Solution Link                      |
+| Problem No. | Problem Name                 | Difficulty | Solution Link                      |
 |-------------|------------------------------|------------|------------------------------------|
 | 2619        | Array Prototype Last         | Easy       | [View Solution](./2619-Array-Prototype-Last) |
 | 2620        | Counter                      | Easy       | [View Solution](./2620-Counter)             |
 | 2621        | Sleep                        | Easy       | [View Solution](./2621-Sleep)               |
-| 2622        | Reduce Function              | Easy       | [View Solution](./2622-Reduce-Function)     |
-
+| 2626        | Array Reduce Transformation  | Easy       | [View Solution](./2626-Array-Reduce-Transformation)     |
+| 2629        | Function Composition         | Easy       | [View Solution](./2629-Function-Composition)     |
 > I will keep updating this list with new daily problems.
 
 
