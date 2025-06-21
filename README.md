@@ -23,6 +23,8 @@ ProblemNumber-Problem-Name/ <br>
 | 2621        | Sleep                        | Easy       | [View Solution](./2621-Sleep)               |
 | 2626        | Array Reduce Transformation  | Easy       | [View Solution](./2626-Array-Reduce-Transformation)     |
 | 2629        | Function Composition         | Easy       | [View Solution](./2629-Function-Composition)     |
+| 2634        | Filter Elements from Array   | Easy       | [View Solution](./2634-Filter-Elements-from-Array)     |
+| 2635        | Apply Transform Over Each <br> Element In Array        | Easy       | [View Solution](./2635-Apply-Transform-Over-Each-Element-in-Array)     |
 > I will keep updating this list with new daily problems.
 
 
