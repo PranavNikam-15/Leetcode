@@ -16,10 +16,11 @@ n = 10
 // Output: [10,11,12]
 ```
 
-**Explanation:**  <br>
-counter() = 10 // The first time counter() is called, it returns n. <br>
-counter() = 11 // Returns 1 more than the previous time. <br>
-counter() = 12 // Returns 1 more than the previous time.
+**Explanation:**
+
+ counter() = 10 // The first time counter() is called, it returns n.  
+ counter() = 11 // Returns 1 more than the previous time.  
+ counter() = 12 // Returns 1 more than the previous time.  
 
 ---
 
@@ -31,7 +32,9 @@ n = -2
 // Output: [-2,-1,0,1,2]
 ```
 
-**Explanation:**  <br> counter() initially returns -2. Then increases after each sebsequent call.
+**Explanation:**  
+
+counter() initially returns -2. Then increases after each sebsequent call.
 
 ---
 

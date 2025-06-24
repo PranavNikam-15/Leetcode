@@ -16,8 +16,9 @@ Input: millis = 100
 // Output: 100
 ```
 
-**Explanation:**  <br>
-It should return a promise that resolves after 100ms. <br>
+**Explanation:**
+
+It should return a promise that resolves after 100ms.  
 `let t = Date.now();
 sleep(100).then(() => {
   console.log(Date.now() - t); // 100
@@ -32,7 +33,9 @@ Input: millis = 200
 // Output: 200
 ```
 
-**Explanation:**  <br> It should return a promise that resolves after 200ms.
+**Explanation:**  
+
+It should return a promise that resolves after 200ms.
 
 ---
 
