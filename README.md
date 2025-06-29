@@ -25,6 +25,9 @@ ProblemNumber-Problem-Name/ <br>
 | 2629        | Function Composition         | Easy       | [View Solution](./2629-Function-Composition)     |
 | 2634        | Filter Elements from Array   | Easy       | [View Solution](./2634-Filter-Elements-from-Array)     |
 | 2635        | Apply Transform Over Each <br> Element In Array        | Easy       | [View Solution](./2635-Apply-Transform-Over-Each-Element-in-Array)     |
+| 2648        | Generate Fibonacci Sequence  | Easy       | [View Solution](./2648-Generate-Fibonacci-Sequence)     |
+| 2665        | Counter-II                   | Easy       | [View Solution](./2665-Counter-II)     |
+| 2666        | Allow One Function Call      | Easy       | [View Solution](./2666-Allow-One-Function-Call)     |
 > I will keep updating this list with new daily problems.
 
 
