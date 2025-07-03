@@ -28,6 +28,8 @@ ProblemNumber-Problem-Name/ <br>
 | 2648        | Generate Fibonacci Sequence  | Easy       | [View Solution](./2648-Generate-Fibonacci-Sequence)     |
 | 2665        | Counter-II                   | Easy       | [View Solution](./2665-Counter-II)     |
 | 2666        | Allow One Function Call      | Easy       | [View Solution](./2666-Allow-One-Function-Call)     |
+| 2677        | Chunk Array                  | Easy       | [View Solution](./2677-Chunk-Array)     |
+| 2695        | Array Wrapper                | Easy       | [View Solution](./2695-Array-Wrapper)     |
 > I will keep updating this list with new daily problems.
 
 
