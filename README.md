@@ -36,6 +36,9 @@ ProblemNumber-Problem-Name/
 | 2703        | Return Length of Arguments <br> Passed         | Easy       | [View Solution](./2703-Return-Length-of-Arguments-Passed) |
 | 2704        | To Be Or Not To Be                             | Easy       | [View Solution](./2704-To-Be-Or-Not-To-Be)             |
 | 2715        | Timeout Cancellation                           | Easy       | [View Solution](./2715-Timeout-Cancellation)           |
+| 2723        | Add Two Promises                               | Easy       | [View Solution](./2723-Add-Two-Promises)               |
+| 2724        | Sort By                                        | Easy       | [View Solution](./2724-Sort-By)                        |
+| 2725        | Interval Cancellation                          | Easy       | [View Solution](./2725-Interval-Cancellation)          |
 
 > This list will keep growing with new JavaScript problems!
 
