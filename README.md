@@ -39,6 +39,8 @@ ProblemNumber-Problem-Name/
 | 2723        | Add Two Promises                               | Easy       | [View Solution](./2723-Add-Two-Promises)               |
 | 2724        | Sort By                                        | Easy       | [View Solution](./2724-Sort-By)                        |
 | 2725        | Interval Cancellation                          | Easy       | [View Solution](./2725-Interval-Cancellation)          |
+| 2726        | Calculator with Method Chaining                | Easy       | [View Solution](./2726-Calculator-with-Method-Chaining)|
+| 2727        | Is Object Empty                                | Easy       | [View Solution](./2727-Is-Object-Empty)                |
 
 > This list will keep growing with new JavaScript problems!
 
